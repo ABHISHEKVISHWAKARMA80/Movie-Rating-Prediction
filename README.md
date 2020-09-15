@@ -1,8 +1,11 @@
 # Movie-Rating-Prediction
 
 I have created a sentiment analysis model that will take a review of the viewer as input and output the sentiment associated with it.
-pos-if positive
+
+pos-if positive.
+
 neg-if negative sentiment is provided by the review.
+
 I have train the model using given data and created a movie review sentiment analysis model.
 
 The data consist of three files:
