@@ -8,11 +8,13 @@ neg-if negative sentiment is provided by the review.
 
 I have train the model using given data and created a movie review sentiment analysis model.
 
-The data consist of three files:
+The data consist of two files:
+
 Train.csv - the training set consists of both review and sentiment pos/neg
+
 Test.csv - the test set consists of only reviews
 
-MovieReview.csv is the final predicted review by the model.
+MovieReview.csv is the final predicted review.
 
 I have used the concepts and techniques of NLP for classification (multinomial Naive Bayes classifier).
 
