@@ -23,3 +23,17 @@ Natural Language Processing, usually shortened as NLP, is a branch of artificial
 
 # multinomial Naive Bayes classifier
 The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g., word counts for text classification).
+
+# Advantages of Naive Bayes Classifier
+
+- Very simple and easy to implement
+
+- Needs less training data
+
+- Handles both continuous and discrete data
+
+- Highly scalable with number of predictors and data points
+
+- As it is fast, it can be used in real time predictions
+
+- Not sensitive to irrelevant features
