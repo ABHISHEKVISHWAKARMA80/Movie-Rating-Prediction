@@ -21,6 +21,10 @@ I have used the concepts and techniques of NLP for classification (multinomial N
 # NLP
 Natural Language Processing, usually shortened as NLP, is a branch of artificial intelligence that deals with the interaction between computers and humans using the natural language. The ultimate objective of NLP is to read, decipher, understand, and make sense of the human languages in a manner that is valuable.
 
+# Types of Naive Bayes :
+
+a) Gaussian  b) Multinomial  c) Bernoulli
+
 # multinomial Naive Bayes classifier
 The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g., word counts for text classification).
 
